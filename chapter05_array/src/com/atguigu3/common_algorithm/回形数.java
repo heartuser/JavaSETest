@@ -11,7 +11,6 @@ public class 回形数 {
          * [quan][bian-1-quan]:每一圈的右上角
          * [bian-1-quan][bian-1-quan]:每一圈的右下角
          * [bian-1-quan][quan]:每一圈的左下角
-         *
          * */
         int bian = 0;
         Scanner sc = new Scanner(System.in);
